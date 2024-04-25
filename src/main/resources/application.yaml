@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: UserApi
+server:
+  error:
+    include-message: always
+    include-binding-errors: always
+user:
+  minimumAge: 18
